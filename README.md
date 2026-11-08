@@ -32,7 +32,7 @@ Chrome shows the trace: the action list, timeline and Network tab, as Firefox do
 | | |
 |---|---|
 | Chrome | 156.0.8078.79 (Official Build) (x86_64), Linux |
-| Firefox | _fill in_ |
+| Firefox | works |
 | Trace Viewer (trace.playwright.dev) | 1.65.0 |
 | `@playwright/test` that wrote the trace | 1.63.0 |
-| Chrome incognito window | _fill in: blank or works_ |
+| Chrome incognito window | blank, the same behavior|
